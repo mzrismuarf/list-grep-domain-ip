@@ -1,0 +1,16 @@
+google.com:64.233.183.113
+Accounts.google.com:142.250.80.13
+Adwords.google.com:142.251.163.138
+Artsandculture.google.com:142.251.16.100
+Books.google.com:142.251.40.110
+Business.google.com:172.253.122.102
+Calendar.google.com:172.253.122.102
+Chat.google.com:142.250.72.110
+Classroom.google.com:172.253.62.100
+Cloud.google.com:142.250.176.206
+Cse.google.com:172.253.115.113
+Datastudio.google.com:142.251.40.110
+Developers.google.com:142.250.176.206
+Docs.google.com:142.251.111.101
+Drive.google.com:172.253.115.113
+Europe.google.com:142.250.80.36
